@@ -9,7 +9,7 @@
     margin: 0;
     height: 10vh;
     width: auto;
-    background: #602d6a;
+    background: #d9326d;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -27,7 +27,7 @@
 }
 
 .bg1,.bg2,.bg3,.bg4,.bg5,.main {
-    background-color: pink;
+    background-color: beige;
     width: 95rem;
 }
 
@@ -97,7 +97,7 @@
     margin: 0;
     height: 10vh;
     width: auto;
-    background: #602d6a;
+    background: #d9326d;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
